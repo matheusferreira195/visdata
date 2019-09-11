@@ -13,4 +13,5 @@
 
 ---
 
-Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
+## Atividade do dia 04/09/2019
+
