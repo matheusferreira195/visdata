@@ -1,0 +1,14 @@
+{
+  "name": "@matheusferreira195/d3-com-crossfilter-e-dc-js",
+  "main": "d/2a813801884ad960.js",
+  "version": "276.0.0",
+  "homepage": "https://observablehq.com/@matheusferreira195/d3-com-crossfilter-e-dc-js",
+  "author": {
+    "name": "matheusferreira195",
+    "url": "https://observablehq.com/@matheusferreira195"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
