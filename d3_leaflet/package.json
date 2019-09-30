@@ -1,0 +1,14 @@
+{
+  "name": "@matheusferreira195/d3-com-crossfilter-dc-js-e-leaflet",
+  "main": "d/53c62c05e4199778.js",
+  "version": "292.0.0",
+  "homepage": "https://observablehq.com/@matheusferreira195/d3-com-crossfilter-dc-js-e-leaflet",
+  "author": {
+    "name": "matheusferreira195",
+    "url": "https://observablehq.com/@matheusferreira195"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
