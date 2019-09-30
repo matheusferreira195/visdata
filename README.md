@@ -1,3 +1,8 @@
+## Atividade do dia 30/09/2019
+
+[index.html](https://github.com/matheusferreira195/visdata/blob/master/d3_crossfilter/index.html)<br>
+
+
 ## Aula do dia 02/09/2019
 
 [index01.html](basic/index01.html)<br>
